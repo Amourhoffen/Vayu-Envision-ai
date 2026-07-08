@@ -2,7 +2,16 @@
 
 **Hyperlocal Environmental Intelligence Platform**
 
+### 🚀 Live Deployment: [Vayu Envision AI on Cloud Run](https://envision-frontend-374396132176.us-central1.run.app)
+### 🎥 Video Demo: [Watch on YouTube](https://youtu.be/aUAcACLJJy8?si=oQUJKwLACj-2ntjT)
+
 ENVISION AI is a real-time environmental social platform where citizens, artificial intelligence, satellite imagery, IoT sensors, and local authorities work together to identify, predict, and solve environmental problems before they become disasters.
+
+## 📸 Screenshots
+*(To add the screenshots you provided, you can drag and drop them directly here in the GitHub web editor!)*
+- **Environmental Analytics Dashboard**
+- **Pollution Reporting (Broken Road)**
+- **Live Interactive Map**
 
 ## 🚀 Vision & Mission
 
